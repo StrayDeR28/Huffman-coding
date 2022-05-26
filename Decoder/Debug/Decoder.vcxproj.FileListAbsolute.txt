@@ -1,0 +1,2 @@
+C:\Users\skutor\Documents\GitHub\aksi\Decoder\Debug\Decoder.exe
+F:\misc\AKSI HomeWork\Huffman-coding\Decoder\Debug\Decoder.exe
